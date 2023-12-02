@@ -1,4 +1,10 @@
+import AppRouters from "../AppRouters";
+
 function PageContent() {
-  return <div className="PageContent">PageContent</div>;
+  return (
+    <div className="PageContent">
+      <AppRouters />
+    </div>
+  );
 }
 export default PageContent;

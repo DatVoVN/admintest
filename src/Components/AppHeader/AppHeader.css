@@ -1,0 +1,74 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.AppHeader{
+    display: flex;
+    height: 90px;
+    text-align: center;
+    justify-content: center;
+    gap: 400px;
+    border: none;
+    width: 100%;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    margin-top: 110px;
+    margin-left: 20px;
+}
+.link{
+    display: flex;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    gap: 70px;
+}
+.AppHeader .link a{
+    font-size: 16px;
+    font-weight: 500;
+}
+.AppHeader .link a:hover{
+    font-size: 1em;
+    cursor: pointer;
+}
+.sign_up{
+    background-color: black;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+}
+.sign_up:hover{
+    scale: 1.05;
+    color: #fff;
+}
+.AppHeader .link button{
+}
+.login_div{
+    display: flex;
+    gap: 30px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.login{
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    padding: 0.5rem 1rem;
+    border: none;
+    outline: none;
+    font-weight: bold;
+}

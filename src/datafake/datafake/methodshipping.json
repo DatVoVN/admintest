@@ -1,0 +1,112 @@
+{
+  "A1": {
+    "A2": { "road": 12, "waterway": 17, "airway": 12 },
+    "A3": { "road": 8, "waterway": 7, "airway": 17 },
+    "A4": { "road": 13, "waterway": 3, "airway": 6 },
+    "A5": { "road": 10, "waterway": 10, "airway": 12 },
+    "B1": { "road": 10, "waterway": 10, "airway": 4 },
+    "B2": { "road": 7, "waterway": 8, "airway": 16 },
+    "B3": { "road": 8, "waterway": 11, "airway": 4 },
+    "B4": { "road": 16, "waterway": 18, "airway": 5 },
+    "B5": { "road": 9, "waterway": 14, "airway": 5 }
+  },
+  "A2": {
+    "A1": { "road": 8, "waterway": 7, "airway": 17 },
+    "A3": { "road": 18, "waterway": 3, "airway": 5 },
+    "A4": { "road": 10, "waterway": 6, "airway": 14 },
+    "A5": { "road": 6, "waterway": 16, "airway": 11 },
+    "B1": { "road": 7, "waterway": 14, "airway": 3 },
+    "B2": { "road": 13, "waterway": 12, "airway": 15 },
+    "B3": { "road": 4, "waterway": 17, "airway": 5 },
+    "B4": { "road": 16, "waterway": 5, "airway": 13 },
+    "B5": { "road": 6, "waterway": 15, "airway": 6 }
+  },
+  "A3": {
+    "A1": { "road": 13, "waterway": 3, "airway": 6 },
+    "A2": { "road": 18, "waterway": 3, "airway": 5 },
+    "A4": { "road": 5, "waterway": 9, "airway": 10 },
+    "A5": { "road": 10, "waterway": 10, "airway": 12 },
+    "B1": { "road": 10, "waterway": 10, "airway": 4 },
+    "B2": { "road": 7, "waterway": 8, "airway": 16 },
+    "B3": { "road": 8, "waterway": 11, "airway": 4 },
+    "B4": { "road": 16, "waterway": 18, "airway": 5 },
+    "B5": { "road": 9, "waterway": 14, "airway": 5 }
+  },
+  "A4": {
+    "A1": { "road": 10, "waterway": 6, "airway": 14 },
+    "A2": { "road": 10, "waterway": 6, "airway": 14 },
+    "A3": { "road": 5, "waterway": 9, "airway": 10 },
+    "A5": { "road": 8, "waterway": 11, "airway": 4 },
+    "B1": { "road": 16, "waterway": 5, "airway": 13 },
+    "B2": { "road": 6, "waterway": 15, "airway": 6 },
+    "B3": { "road": 16, "waterway": 18, "airway": 5 },
+    "B4": { "road": 9, "waterway": 14, "airway": 5 },
+    "B5": { "road": 7, "waterway": 14, "airway": 3 }
+  },
+  "A5": {
+    "A1": { "road": 6, "waterway": 16, "airway": 11 },
+    "A2": { "road": 6, "waterway": 16, "airway": 11 },
+    "A3": { "road": 10, "waterway": 10, "airway": 12 },
+    "A4": { "road": 8, "waterway": 11, "airway": 4 },
+    "B1": { "road": 9, "waterway": 14, "airway": 5 },
+    "B2": { "road": 7, "waterway": 14, "airway": 3 },
+    "B3": { "road": 16, "waterway": 5, "airway": 13 },
+    "B4": { "road": 6, "waterway": 15, "airway": 6 },
+    "B5": { "road": 16, "waterway": 18, "airway": 5 }
+  },
+  "B1": {
+    "A1": { "road": 10, "waterway": 10, "airway": 4 },
+    "A2": { "road": 7, "waterway": 8, "airway": 16 },
+    "A3": { "road": 8, "waterway": 11, "airway": 4 },
+    "A4": { "road": 16, "waterway": 18, "airway": 5 },
+    "A5": { "road": 9, "waterway": 14, "airway": 5 },
+    "B2": { "road": 10, "waterway": 10, "airway": 4 },
+    "B3": { "road": 7, "waterway": 8, "airway": 16 },
+    "B4": { "road": 8, "waterway": 11, "airway": 4 },
+    "B5": { "road": 16, "waterway": 18, "airway": 5 }
+  },
+  "B2": {
+    "A1": { "road": 7, "waterway": 14, "airway": 3 },
+    "A2": { "road": 13, "waterway": 12, "airway": 15 },
+    "A3": { "road": 4, "waterway": 17, "airway": 5 },
+    "A4": { "road": 16, "waterway": 5, "airway": 13 },
+    "A5": { "road": 6, "waterway": 15, "airway": 6 },
+    "B1": { "road": 10, "waterway": 10, "airway": 4 },
+    "B3": { "road": 7, "waterway": 8, "airway": 16 },
+    "B4": { "road": 8, "waterway": 11, "airway": 4 },
+    "B5": { "road": 16, "waterway": 18, "airway": 5 }
+  },
+  "B3": {
+    "A1": { "road": 8, "waterway": 11, "airway": 4 },
+    "A2": { "road": 4, "waterway": 17, "airway": 5 },
+    "A3": { "road": 8, "waterway": 11, "airway": 4 },
+    "A4": { "road": 16, "waterway": 18, "airway": 5 },
+    "A5": { "road": 9, "waterway": 14, "airway": 5 },
+    "B1": { "road": 7, "waterway": 8, "airway": 16 },
+    "B2": { "road": 7, "waterway": 8, "airway": 16 },
+    "B4": { "road": 8, "waterway": 11, "airway": 4 },
+    "B5": { "road": 16, "waterway": 18, "airway": 5 }
+  },
+  "B4": {
+    "A1": { "road": 16, "waterway": 5, "airway": 13 },
+    "A2": { "road": 6, "waterway": 15, "airway": 6 },
+    "A3": { "road": 16, "waterway": 18, "airway": 5 },
+    "A4": { "road": 9, "waterway": 14, "airway": 5 },
+    "A5": { "road": 7, "waterway": 14, "airway": 3 },
+    "B1": { "road": 8, "waterway": 11, "airway": 4 },
+    "B2": { "road": 8, "waterway": 11, "airway": 4 },
+    "B3": { "road": 8, "waterway": 11, "airway": 4 },
+    "B5": { "road": 16, "waterway": 18, "airway": 5 }
+  },
+  "B5": {
+    "A1": { "road": 9, "waterway": 14, "airway": 5 },
+    "A2": { "road": 7, "waterway": 14, "airway": 3 },
+    "A3": { "road": 16, "waterway": 5, "airway": 13 },
+    "A4": { "road": 6, "waterway": 15, "airway": 6 },
+    "A5": { "road": 16, "waterway": 18, "airway": 5 },
+    "B1": { "road": 16, "waterway": 18, "airway": 5 },
+    "B2": { "road": 16, "waterway": 18, "airway": 5 },
+    "B3": { "road": 16, "waterway": 18, "airway": 5 },
+    "B4": { "road": 16, "waterway": 18, "airway": 5 }
+  }
+}

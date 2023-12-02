@@ -1,0 +1,174 @@
+{
+  "warehouses": [
+    {
+      "name": "Warehouse A1",
+      "code": "A1",
+      "capacity": "40 ton",
+      "consumption": "50 ton",
+      "location": "Lien Chieu, VietNam",
+      "addressLine": "80-90 Nguyen Luong Bang",
+      "companyName": "A1 Company",
+      "quantity": "42,235.00 Unit",
+      "percentageCapacity": "30%",
+      "items": [
+        "Stylish T-shirt 150 units",
+        "Cozy Blanket 20 units",
+        "Leather Wallet 50 units",
+        "Running Shoes 30 pairs"
+      ]
+    },
+    {
+      "name": "Warehouse A2",
+      "code": "A2",
+      "capacity": "60 ton",
+      "consumption": "40 ton",
+      "location": "Reykjavik, Iceland",
+      "addressLine": "45-55 Maple Street",
+      "companyName": "A2 Company",
+      "quantity": "32,235.00 Unit",
+      "percentageCapacity": "50%",
+      "items": [
+        "Vintage Watch 10 units",
+        "Silk Pajamas 15 units",
+        "Wool Scarf 40 units",
+        "Denim Jeans 25 pairs"
+      ]
+    },
+    {
+      "name": "Warehouse A3",
+      "code": "A3",
+      "capacity": "40 ton",
+      "consumption": "30 ton",
+      "location": "Marrakech, Morocco",
+      "addressLine": "12-22 Rue de la Paix",
+      "companyName": "A3 Company",
+      "quantity": "53,235.00 Unit",
+      "percentageCapacity": "25%",
+      "items": [
+        "Classic Sunglasses 75 units",
+        "Lounge Robe 18 units",
+        "Cotton Socks 100 pairs",
+        "Quilted Jacket 12 pieces"
+      ]
+    },
+    {
+      "name": "Warehouse A4",
+      "code": "A4",
+      "capacity": "60 ton",
+      "consumption": "35 ton",
+      "location": "Cape Town, South Africa",
+      "addressLine": "890-900 Gran Via",
+      "companyName": "A4 Company",
+      "quantity": "12,235.00 Unit",
+      "percentageCapacity": "35%",
+      "items": [
+        "Elegant Dress 30 units",
+        "Memory Foam Pillow 25 units",
+        "Knit Beanie 60 units",
+        "Waterproof Jacket 8 pieces"
+      ]
+    },
+    {
+      "name": "Warehouse A5",
+      "code": "A5",
+      "capacity": "45 ton",
+      "consumption": "50 ton",
+      "location": "Dublin, Ireland",
+      "addressLine": "8-18 Westminster Bridge Road",
+      "companyName": "A5 Company",
+      "quantity": "67,235.00 Unit",
+      "percentageCapacity": "41%",
+      "items": [
+        "Striped Polo Shirt 100 units",
+        "Satin Nightgown 12 units",
+        "Leather Belt 45 units",
+        "Cargo Trousers 20 pairs"
+      ]
+    },
+    {
+      "name": "Warehouse B1",
+      "code": "B1",
+      "capacity": "55 ton",
+      "consumption": "60 ton",
+      "location": "Lima, Peru",
+      "addressLine": "150-160 Paseo de la Reforma",
+      "companyName": "B1 Company",
+      "quantity": "47,235.00 Unit",
+      "percentageCapacity": "45%",
+      "items": [
+        "Formal Blazer 20 units",
+        "Flannel Pajamas 22 units",
+        "Wool Gloves 35 units",
+        "Hiking Boots 15 pairs"
+      ]
+    },
+    {
+      "name": "Warehouse B2",
+      "code": "B2",
+      "capacity": "45 ton",
+      "consumption": "50 ton",
+      "location": "Prague, Czech Republic",
+      "addressLine": "122 Tverskaya Street",
+      "companyName": "B2 Company",
+      "quantity": "5,235.00 Unit",
+      "percentageCapacity": "64%",
+      "items": [
+        "Graphic Hoodie 40 units",
+        "Plush Slippers 30 units",
+        "Knitted Scarf 50 units",
+        "Bomber Jacket 10 pieces"
+      ]
+    },
+    {
+      "name": "Warehouse B3",
+      "code": "B3",
+      "capacity": "60 ton",
+      "consumption": "35 ton",
+      "location": "Auckland, New Zealand",
+      "addressLine": "500-510 Via della Conciliazione",
+      "companyName": "B3 Company",
+      "quantity": "8,235.00 Unit",
+      "percentageCapacity": "23%",
+      "items": [
+        "Linen Shirt 60 units",
+        "Thermal Underwear 15 units",
+        "Canvas Backpack 25 units",
+        "Cargo Pants 18 pairs"
+      ]
+    },
+    {
+      "name": "Warehouse B4",
+      "code": "B4",
+      "capacity": "40 ton",
+      "consumption": "50 ton",
+      "location": "Seoul, South Korea",
+      "addressLine": "75-85 Alexanderplatz",
+      "companyName": "B4 Company",
+      "quantity": "9,235.00 Unit",
+      "percentageCapacity": "41%",
+      "items": [
+        "Sporty Tank Top 80 units",
+        "Lounge Shorts 28 units",
+        "Leather Wallet 55 units",
+        "Windbreaker 14 pieces"
+      ]
+    },
+    {
+      "name": "Warehouse B5",
+      "code": "B5",
+      "capacity": "50 ton",
+      "consumption": "40 ton",
+      "location": "Buenos Aires, Argentina",
+      "addressLine": "30-40 Lombard Street",
+      "companyName": "B5 Company",
+      "quantity": "12,235.00 Unit",
+      "percentageCapacity": "10%",
+      "items": [
+        "Denim Jacket 15 pieces",
+        "Satin Sleep Mask 40 units",
+        "Wool Socks 80 pairs",
+        "Chinos 22 pairs"
+      ]
+    }
+  ]
+}

@@ -1,20 +1,19 @@
-import { Space } from "antd";
 import "./App.css";
-import AppHeader from "./Components/AppHeader";
-import SideMenu from "./Components/SideMenu";
-import PageContent from "./Components/PageContent";
-import Calculate from "./Components/Calculate/Calculate";
-import Data from "./Components/Data/Data";
+import AppHeader from "./Components/AppHeader/AppHeader";
+import Home from "./Components/Home/Home";
+import { Routes, Route } from "react-router-dom";
+import Maps from "./Components/Maps/Maps";
+import Transform from "./Components/Transform/Transform";
 
 function App() {
   return (
     <div className="App">
       <AppHeader />
-      <Space>
-        <SideMenu></SideMenu>
-        <PageContent></PageContent>
-      </Space>
-      <Calculate />
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/btvt" element={<Transform />} />
+        <Route path="/maps" element={<Maps />} />
+      </Routes>
     </div>
   );
 }
