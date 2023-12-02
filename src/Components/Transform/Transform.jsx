@@ -170,7 +170,7 @@ const Transform = () => {
   };
 
   return (
-    <div className="container p-10 bg-opacity-40 bg-gray-300 shadow-md rounded-lg border border-gray-300">
+    <div className="">
       <iframe
         title="External Website"
         src="http://reshmat.ru/transportation_problem_lp.html" // Đặt URL của website bạn muốn nhúng ở đây
